@@ -1,6 +1,6 @@
 # Datatables Bootstrap
 
-Simple implementation datatable with bootstrap and local sources file.
+Simple implementation datatable with bootstrap and local sources.
 
 **This preview sample image :**
 
