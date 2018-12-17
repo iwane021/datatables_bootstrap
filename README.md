@@ -1,4 +1,4 @@
-# datatables_bootstrap
+# Datatables Bootstrap
 Using datatable bootstrap
 
 Simple implementation datatable with bootstrap with local sources.
